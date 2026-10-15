@@ -9,13 +9,13 @@
     "web": "adk web"
   },
   "dependencies": {
-    "@google/adk": "^1.0.0",
+    "@google/adk": "^2.3.0",
     "google-auth-library": "^9.14.1",
     "googleapis": "^144.0.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@google/adk-devtools": "^1.0.0",
+    "@google/adk-devtools": "^2.3.0",
     "@types/node": "^22.5.0",
     "tsx": "^4.19.0",
     "typescript": "^5.5.4"
